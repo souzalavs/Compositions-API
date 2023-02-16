@@ -9,8 +9,7 @@
 <p align="center">
   <a href="#-sobre-o-projeto">Sobre o projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; 
   <a href="#-layouts">Layouts</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-processo-criativo">Processo Criativo</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-autor">Autor</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+  <a href="#-processo-criativo">Processo Criativo</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
 <p align="center"><img width="30%" height="30%" src="img/logo.png"></img></p>

@@ -55,7 +55,7 @@ A ideia surgiu após a leitura do livro "Daisy Jones & The Six".
 <p align="center"><img width="25%" height="25%" src="img/daisy-jones-book.jpg"></img></p>
 
 Para evitar que os compositores Billy Dunne e Daisy Jones passem mais tempo do que o necessário juntos (visto que ambos não mantém uma boa convivência), 
-suas composições são inseridas por eles em um banco de dados de forma que toda a banda tem acesso às letras. Dessa forma, as composições ficam organizadas em um mesmo local de fácil acesso e disponíveis a qualquer momento para qualquer membro da banda. Além disso, Billy e Daisy não precisam se encontrar pessoalmente para compartilhar suas composições, deixando ambos (e a banda) mais felizes.
+suas composições são inseridas por eles em um banco de dados de forma que toda a banda tem acesso às letras. Dessa forma, as composições ficam organizadas em um mesmo local de fácil acesso e disponíveis a qualquer momento para qualquer membro da banda.
 
 # ✒️ Autor
 

@@ -7,15 +7,15 @@
 <p align="center"> Projeto desenvolvido com Django Ninja e Python. </p> 
 
 <p align="center">
-  <a href="#-sobre">Sobre o projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; 
+  <a href="#-sobre-o-projeto">Sobre o projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; 
   <a href="#-layouts">Layouts</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-Processo Criativo">Processo Criativo</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-Autor">Autor</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+  <a href="#-processo-criativo">Processo Criativo</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-autor">Autor</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
 </p>
 
 <p align="center"><img width="30%" height="30%" src="img/logo.png"></img></p>
 
-# Sobre o projeto
+# 💻 Sobre o projeto 
 
 Compositions API é um projeto back-end focado para aprendizado introdutório do web framework Django Ninja.
 O projeto consiste em uma API que se conecta com o banco de dados e deve ser capaz de armazenar composições musicais inseridas pelos usuários que devem informar 
